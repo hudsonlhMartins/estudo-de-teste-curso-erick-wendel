@@ -1,0 +1,17 @@
+{
+  "name": "stubs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./src/service.test.js",
+    "start": "node ./src/service.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sinon": "^9.2.4"
+  }
+}

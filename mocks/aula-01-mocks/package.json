@@ -1,0 +1,14 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.test.js",
+    "dev":"node ./src/file.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
